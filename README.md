@@ -214,4 +214,4 @@ This project is for educational purposes.
 
 ## 👨‍💻 Developer
 
-Built with ❤️ using Flutter.
+Ahmed T. Abdelwahed
